@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ConsumoDeEnergia</string>
+    <string name="nomeaparelho">Informe o aparelho:</string>
+    <string name="marca">Marca do aparelho:</string>
+    <string name="consumo">Consumo (Kw/h:)</string>
+    <string name="aparelho">Escolha o aparelho:</string>
+    <string name="tempodeuso">Informe o tempo de uso:</string>
+    <string name="valorKwh">Atualize o valor do Kwh:</string>
+    <string name="btnInserirA">INSERIR APARELHO</string>
+    <string name="ops">Ops, algo deu errado :-(</string>
+</resources>
